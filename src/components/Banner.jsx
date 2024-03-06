@@ -24,6 +24,7 @@ const Banner = () => {
               >
         </ReactTyped>
       </div>
+      <button className='bg-[black] text-white p-3 rounded'>Get Started</button>
       </div>
     </div>
   )

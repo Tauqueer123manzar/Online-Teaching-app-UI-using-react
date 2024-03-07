@@ -16,6 +16,7 @@ const Header = () => {
         <IoMenu onClick={()=> settoggle(!toggle)} className='text-white text-2xl
          md:hidden block'/>
         }
+  
         <ul className='hidden md:flex text-white gap-10'>
           <li>
              Home
@@ -33,6 +34,7 @@ const Header = () => {
             Contact
           </li>
         </ul>
+            
              {/* for responsive */}
         <ul className={`duration-300 md:hidden w-full h-screen text-white fixed bg-black top-[90px] left-[-100%]
                         ${toggle ? 'left-[0]':'left-[-100%]'}`}>

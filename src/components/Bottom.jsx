@@ -36,14 +36,14 @@ export default function Bottom() {
 
         </div>
         <div className='my-12 '>
-          <a className='font-bold text-[20px] text-black flex justify-center my-4' href="#Company">Company</a>
+          <a className='font-bold text-[20px] text-black flex justify-center  my-4' href="#Company">Company</a>
           <a className='font-medium text-[17px] text-white flex justify-center my-7' href="#About">About</a>
           <a className='font-medium text-[17px] text-white flex justify-center my-7' href="#Blog">Blog</a>
           <a className='font-medium text-[17px] text-white flex justify-center my-7' href="#Jobs">Jobs</a>
           <a className='font-medium text-[17px] text-white flex justify-center my-7' href="#Press">Press</a>
         </div>
-        <div className='my-12 '>
-          <a className='font-bold text-[20px] text-black flex justify-center my-4' href="#Support">Support</a>
+        <div className='my-12'>
+          <a className='font-bold   text-[20px] text-black flex justify-center my-4' href="#Support">Support</a>
           <a className='font-medium text-[17px] text-white flex justify-center my-7' href="#Pricing">Pricing</a>
           <a className='font-medium text-[17px] text-white flex justify-center my-7' href="#Documentation">Documentation</a>
           <a className='font-medium text-[17px] text-white flex justify-center my-7' href="#Guides">Guides</a>

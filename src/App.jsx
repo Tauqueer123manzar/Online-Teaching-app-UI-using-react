@@ -1,4 +1,5 @@
 import Banner from "./components/Banner"
+import Bottom from "./components/Bottom"
 import Card from "./components/Card"
 import Experts from "./components/Experts"
 import Header from "./components/Header"
@@ -13,6 +14,7 @@ function App() {
     <Experts/>
     <Newsletter/>
     <Card/>
+    <Bottom/>
    </div>
   )
 }
